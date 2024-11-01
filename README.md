@@ -1,1 +1,1 @@
-# ystraw-to-supabase
+# THIS PROJECT SENDS DATA TO SUPABASE.
